@@ -1,2 +1,4 @@
 *.xlsx
 *.pkl
+*_checkpoints
+__pycache__
