@@ -2,3 +2,5 @@
 *.pkl
 *_checkpoints
 __pycache__
+nn8b07562_si_001/matches.json
+nn8b07562_si_001/missing.txt

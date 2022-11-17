@@ -1,2 +1,4 @@
-# enm-ml-cytotoxicity
-This repository contains all Jupyter notebooks used to explore, clean, RDFy and analyze nanoparticle cytotoxicity datasets.
+# enm-rdf-nb
+This repository contains the notebooks used to develop the proof of concept for the nano-citotoxicity dataset RDFier I aim to develop as a full-fledged tool in the future.
+
+(Work in progress)
